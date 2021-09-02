@@ -1,0 +1,5 @@
+optConfig:
+  optOutStrategy: true
+  optOutRepos:
+  - conveyor-analytics
+  - looker-dashboards
