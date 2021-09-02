@@ -3,3 +3,4 @@ optConfig:
   optOutRepos:
   - conveyor-analytics
   - looker-dashboards
+  action: issue
