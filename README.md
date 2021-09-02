@@ -20,7 +20,7 @@ These are the expected settings to be in compliance
 | Branches enforced | default |
 | Require approval | yes |
 | Approvals required | 1 |
-| Dismiss stale reviews | not required |
+| Dismiss stale reviews | required |
 | Block force push | yes |
 
 ### [Binary Artifacts](binary_artifacts.yaml)
