@@ -1,4 +1,4 @@
-# Allstar configuration for GoogleContainerTools
+# Allstar configuration for Conveyor
 
 [Allstar](https://github.com/ossf/allstar) is a security-policy GitHub App. It is
 installed on this org, and this repo contains the configuration for that app. It
