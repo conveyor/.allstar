@@ -7,7 +7,7 @@ policy.
 
 ## Enabled Repos
 
-Allstar is configured in opt-in. [See here for the list of enabled repos](allstar.yml). Feel
+Allstar is configured in opt-out. [See here for the list of enabled repos](allstar.yml). Feel
 free to submit a PR to enable/disable repos.
 
 ## Policy Configuration
